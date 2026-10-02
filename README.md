@@ -2,11 +2,11 @@
 
 Este es mi proyecto para el taller de desarrollo de un sistema bancario del programa ADSO (Análisis y Desarrollo de Software) del SENA. 
 
-Es una aplicación web desarrollada desde cero en **PHP puro**, aplicando **Programación Orientada a Objetos (POO)** y una **arquitectura MVC (Modelo-Vista-Controlador)** propia, sin utilizar frameworks.
+Es una aplicación web desarrollada desde cero en **PHP puro**, aplicando **Programación Orientada a Objetos (POO)** y una **arquitectura MVC (Modelo-Vista-Controlador)** propia.
 
 ## Tecnologías y Versiones
 * **PHP:** Versión 8.2 o superior (con soporte para tipado estricto `declare(strict_types=1)`).
-* **MySQL / MariaDB:** Versión 8.0 o superior (gestión de base de datos relacional).
+* **MySQL:** Versión 8.0 o superior (gestión de base de datos relacional).
 * **PDO (PHP Data Objects):** Utilizado para la conexión segura y prevención de inyecciones SQL.
 * **Composer:** Versión 2.x (usado para el autoloader de clases bajo el estándar PSR-4).
 * **HTML5 y CSS3:** Estructura de las vistas y diseño de la interfaz de usuario.
